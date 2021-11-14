@@ -11,6 +11,7 @@ references on cross-entropy methods and applications is included.
 
 ## High Level Overview :- 
 ![2021-11-14](https://user-images.githubusercontent.com/76057253/141668801-bb3d7313-b942-44a8-81fe-85311f48b7db.png)
+ 
  Here we are using simple Linear Neural Network . 
  
  ## Paper :- 
